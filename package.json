@@ -1,0 +1,13 @@
+{
+  "bin": "./index.js",
+  "name": "search",
+  "version": "1.0.0",
+  "description": "cli search ",
+  "main": "index.js",
+  "author": "aman kumar singh ",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
